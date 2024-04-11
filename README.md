@@ -18,4 +18,34 @@ The purpose of this project is to provide a seamless integration between Figma d
 1. **Clone the repository**:
 
    ```bash
-   git clone 
+   git clone https://github.com/Rohitilak/figma-clone
+---
+1. **Navigate to the project directory**
+      ```bash
+   npm install
+---
+2. **Install dependencies:**
+    ```bash
+     npm install
+---
+## Usage
+To run the project locally, you can use the following command:
+    ```bash
+npm start
+
+This will start a development server and open the project in your default web browser. You can then view and interact with the React.js components based on the Figma design.
+
+---
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature).
+3. Make your changes.
+4. Commit your changes (git commit -am 'Add new feature').
+5. Push to the branch (git push origin feature/your-feature).
+6. Create a new Pull Request.
+---
+## License
+
+Feel free to customize this README content to fit your specific Figma project using React.js. You can adjust the features, installation instructions, and usage details based on your project's requirements.
+
